@@ -1,0 +1,13 @@
+{
+    "ERROR_ID_LENGTH": 16,
+    "ERRORS": {
+        "command_test": {
+            "nrm": {
+                "INVALID_NAME": "INVALID_NAME"
+            },
+            "sql": {
+                "ER_DIS_D": "abc"
+            }
+        }
+    }
+}
